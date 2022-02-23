@@ -1,0 +1,22 @@
+/* Basic reset */
+
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+/* Container style */
+
+#container {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Basic style for appearing text */
+
+#speech-container {
+    width: 10em;
+}
